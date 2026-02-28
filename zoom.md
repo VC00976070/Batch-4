@@ -4,7 +4,7 @@
 
 Zoom is a video conferencing tool used for online meetings, webinars, and virtual collaboration. This document provides instructions for installing, setting up, and using the Zoom Desktop Client on supported operating systems.
 
-This is added by Mahesh.
+City: Bangalore
 sample line
 ## Prerequisites
 
