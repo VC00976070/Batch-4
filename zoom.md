@@ -61,7 +61,7 @@ Use your Zoom credentials to log in via [zoom.us/signin](https://zoom.us/signin)
 im typing
 
 
-![Sample image](generated-image.png)
+![Sample image](/assets/generated-image.png)
 
 
 [![Sample image](generated-image.png)](https://zoom.us/signin)
