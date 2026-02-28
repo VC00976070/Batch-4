@@ -1,4 +1,4 @@
-# Zoom Installation Guide
+ n# Zoom Installation Guide
 
 ## Overview
 
@@ -13,7 +13,7 @@ Before installation, ensure the following:
     - Your operating system is compatible
 * You have administrator rights on your device
 * Your operating system is compatible
-
+This is added by Naveen.
 ## System Requirements
 
 __Table 1. System Requirements__
